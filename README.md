@@ -22,7 +22,6 @@ Contact Facebook & WhatsApp :>
 - rm -rf VYPER-PRO
 - git clone --depth=1 https://github.com/TXT-XD/VYPER-PROp.git
 - cd VYPER-PRO
-git clone --depth=1 https://github.com/TXT-XD/VYPER-PRO
 - python VYPER.py
 
 Note: (This Tools Are Paid, So You Need Permission To Use Vyper Pro Tools Enjoy)
