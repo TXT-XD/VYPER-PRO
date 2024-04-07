@@ -11,19 +11,19 @@ Contact Facebook & WhatsApp :>
 ## <b>Installation</b>
 
 ```
-▶ pkg update
-▶ pkg upgrade
-▶ pkg install python
-▶ pkg install python2
-▶ pip install requests
-▶ pip install pycurl
-▶ pip install bs4
-▶ pip install rich
-▶ pkg install git
-▶ rm -rf VYPER-PRO
-▶ git clone --depth=1 https://github.com/TXT-XD/VYPER-PROp.git
-▶ cd VYPER-PRO
-▶ python VYPER.py
+- pkg update
+- pkg upgrade
+- pkg install python
+- pip install requests
+- pip install pycurl
+- pip install bs4
+- pip install rich
+- pkg install git
+- rm -rf VYPER-PRO
+- git clone --depth=1 https://github.com/TXT-XD/VYPER-PROp.git
+- cd VYPER-PRO
+git clone --depth=1 https://github.com/TXT-XD/VYPER-PRO
+- python VYPER.py
 
 Note: (This Tools Are Paid, So You Need Permission To Use Vyper Pro Tools Enjoy)
 
